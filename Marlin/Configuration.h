@@ -768,8 +768,8 @@
 // @section machine
 
 // Invert the stepper direction. Change (or reverse the motor connector) if an axis goes the wrong way.
-#define INVERT_X_DIR false // was true - shekhau
-#define INVERT_Y_DIR true // was false - shekhau
+#define INVERT_X_DIR false // was true - shekhau, false for tmc2130
+#define INVERT_Y_DIR false // default drivers is false - shekhau
 #define INVERT_Z_DIR false // true for TMC2130
 
 // Enable this option for Toshiba stepper drivers
