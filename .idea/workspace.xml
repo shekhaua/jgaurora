@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edf0cc4d-3032-4303-9928-a1bb0ff60b59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Marlin/Configuration.h" beforeDir="false" afterPath="$PROJECT_DIR$/Marlin/Configuration.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marlin/Configuration_adv.h" beforeDir="false" afterPath="$PROJECT_DIR$/Marlin/Configuration_adv.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Marlin/pins_RAMPS.h" beforeDir="false" afterPath="$PROJECT_DIR$/Marlin/pins_RAMPS.h" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,13 +41,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="25" />
-          <entry key="h" value="351" />
+          <entry key="h" value="362" />
           <entry key="md" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C++" value="351" />
+          <entry key="C++" value="362" />
           <entry key="PLAIN_TEXT" value="46" />
         </counts>
       </usages-collector>
@@ -60,7 +57,9 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Marlin/Marlin.ino">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-511" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -68,7 +67,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Marlin/pins_RAMPS.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="97">
@@ -80,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Marlin/Configuration_adv.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
+            <state relative-caret-position="18734">
               <caret line="1136" column="36" selection-start-line="1136" selection-start-column="36" selection-end-line="1136" selection-end-column="36" />
             </state>
           </provider>
@@ -95,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Marlin/Configuration.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="771" column="57" selection-start-line="771" selection-start-column="57" selection-end-line="771" selection-end-column="57" />
+            <state relative-caret-position="252">
+              <caret line="90" column="67" selection-start-line="90" selection-start-column="67" selection-end-line="90" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -134,9 +133,9 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/Marlin/Configuration.h" />
         <option value="$PROJECT_DIR$/Marlin/Configuration_adv.h" />
         <option value="$PROJECT_DIR$/Marlin/pins_RAMPS.h" />
+        <option value="$PROJECT_DIR$/Marlin/Configuration.h" />
       </list>
     </option>
   </component>
@@ -236,21 +235,22 @@
       <updated>1540068455216</updated>
       <workItem from="1540068459770" duration="2242000" />
       <workItem from="1540231868083" duration="1294000" />
-      <workItem from="1540242024745" duration="2639000" />
+      <workItem from="1540242024745" duration="2748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6175000" />
+    <option name="totallyTimeSpent" value="6284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="834" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20457797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.5700809" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5700809" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -303,12 +303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Marlin/Marlin.ino">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Marlin/Marlin_main.cpp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -323,24 +317,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Marlin/Configuration.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="771" column="57" selection-start-line="771" selection-start-column="57" selection-end-line="771" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Marlin/Configuration_adv.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="1136" column="36" selection-start-line="1136" selection-start-column="36" selection-end-line="1136" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Marlin/pins_RAMPS.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
           <caret line="93" column="42" selection-start-line="93" selection-start-column="42" selection-end-line="93" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Marlin/Marlin.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-511" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Marlin/Marlin_main.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Marlin/Configuration_adv.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18734">
+          <caret line="1136" column="36" selection-start-line="1136" selection-start-column="36" selection-end-line="1136" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Marlin/Configuration.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="90" column="67" selection-start-line="90" selection-start-column="67" selection-end-line="90" selection-end-column="67" />
         </state>
       </provider>
     </entry>

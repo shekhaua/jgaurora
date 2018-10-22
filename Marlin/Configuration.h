@@ -88,7 +88,7 @@
 // build by the user have been successfully uploaded into firmware.
 #define STRING_CONFIG_H_AUTHOR "(Andrei Shekhau, Telli Mantelli, Kris Waclawski, Samuel Pinches & Michael Gilardi, 21 Jan 2018)" // Who made the changes.
 #define SHOW_BOOTSCREEN
-#define STRING_SPLASH_LINE1 "Marlin 1.1.8C for A5 TMC2130" // will be shown during bootup in line 1
+#define STRING_SPLASH_LINE1 "Marlin 1.1.8C for A5 TMC2130 only on X" // will be shown during bootup in line 1
 #define STRING_SPLASH_LINE2 "github.com/GilardiLabs/Marlin"         // will be shown during bootup in line 2
 
 //
